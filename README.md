@@ -1,6 +1,8 @@
 # Ex.No.4-EXP 4 Generate the Prompt and eveluate that for following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
-### DATE:                                                                            
-### REGISTER NUMBER : 
+
+### REGISTER NUMBER : 212223230018 
+
+
 ### Aim: To write the prompt for the following prompt types and ompare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics). 1.Comparative Analysis Prompt 2. Experiential Perspective Prompt 3. Everyday Functioning Prompts 4. Universal Prompt Structures Prompt Refinements 5. Prompt Size Limitations design an AI 
 
 ### Explanation - Any one use case from Unit 5 and write the prompt for that with the unit 2 Prompt types given above.
@@ -461,4 +463,33 @@ Transitioning to an IoT framework yields four immediate, high-value operational 
 * **Algorithmic Energy Management:** Smart meters trace utility costs down to individual machine cells. The central network dynamically shifts idle equipment into ultra-low-power sleep modes and staggers machine startups to avoid costly peak-demand power grid penalties.
 * **Mass Customization Agility:** When a new custom batch order is received, the cloud platform updates the recipe directly to the edge PLCs. Machines read embedded RFID tags on incoming raw parts and automatically self-adjust their tools or parameters on the fly.
 
-# Result: The various types of Prompts are executed successfully with generated the report.
+  ## Comparison of AI Tools (ChatGPT vs Gemini):
+ | Criteria                 | Weight | ChatGPT Score | Gemini Score |
+| ------------------------ | ------ | ------------- | ------------ |
+| Clarity                  | 5      | 5             | 4            |
+| Relevance                | 5      | 5             | 5            |
+| Depth of Content         | 5      | 4             | 5            |
+| Structure & Organization | 5      | 5             | 5            |
+| Practical Examples       | 5      | 4             | 5            |
+
+#### Overall Observation:
+ChatGPT is better for academic understanding and exam writing
+
+Gemini is better for technical depth and industrial-level explanation
+
+## Rubric Evaluation Table
+| Criteria                 | Weight | ChatGPT Score | Gemini Score |
+| ------------------------ | ------ | ------------- | ------------ |
+| Clarity                  | 5      | 5             | 4            |
+| Relevance                | 5      | 5             | 5            |
+| Depth of Content         | 5      | 4             | 5            |
+| Structure & Organization | 5      | 5             | 5            |
+| Practical Examples       | 5      | 4             | 5            |
+
+
+## Final Conclusion
+
+Both AI tools performed effectively for the given IoT-based smart manufacturing prompts. ChatGPT provided clearer and more student-friendly explanations, making it suitable for academic writing. Gemini provided more technical depth, structured engineering detail, and advanced industrial insights. Based on rubric evaluation, Gemini scored slightly higher overall due to its deeper technical content, while ChatGPT excelled in clarity and simplicity.
+
+# Result:
+ The various types of Prompts are executed successfully with generated the report.
